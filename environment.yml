@@ -1,4 +1,5 @@
 name: lamden
 dependencies:
   - python=3.6
-  - lamden
+  - pip
+      - lamden
